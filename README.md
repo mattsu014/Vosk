@@ -133,5 +133,5 @@ I posted this article on Dev.to, so I thought it would be interesting to repost 
 
 - Follow my dev.to account: [@mattsu014](https://dev.to/mattsu014)
 
-- Original Post: [Run DeepSeek R1 Locally with Ollama and Python](https://dev.to/mattsu014/run-deepseek-r1-locally-with-ollama-and-python-44b6)
+- Original Post: [VOSK the Offline Speech Recognition](https://dev.to/mattsu014/vosk-offline-speech-recognition-3kbb)
 
