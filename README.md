@@ -128,3 +128,10 @@ Whether for voice-controlled apps, transcription tools, or language learning, VO
 
 ---
 Thanks for reading 🙃
+
+I posted this article on Dev.to, so I thought it would be interesting to repost it here as well. 😊
+
+- Follow my dev.to account: [@mattsu014](https://dev.to/mattsu014)
+
+- Original Post: [Run DeepSeek R1 Locally with Ollama and Python](https://dev.to/mattsu014/run-deepseek-r1-locally-with-ollama-and-python-44b6)
+
