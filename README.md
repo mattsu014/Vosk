@@ -49,7 +49,7 @@ while True:
     data = stream.read(4096, exception_on_overflow=False)
     if recognizer.AcceptWaveform(data):
         result = json.loads(recognizer.Result())
-        print("Você disse:", result["text"])
+        print("You:", result["text"])
 
 ```
 I created this simple example code to demonstrate how VOSK works.
